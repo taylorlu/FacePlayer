@@ -39,4 +39,4 @@ After that, it will generate `IJKMediaFramework.framework`, `libx264.a`
   * prnet: face converter
   
 ### 3. Running on iOS
-
+![test](https://github.com/taylorlu/FacePlayer/blob/master/test.gif)
